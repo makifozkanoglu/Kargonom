@@ -1,0 +1,1 @@
+# Merkeze olan uzaklığın ve ve çizgilerin curve miktarının bulunması
