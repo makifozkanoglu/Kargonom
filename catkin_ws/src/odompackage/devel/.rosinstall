@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/akif/catkin_ws/src/odomtopic/devel/setup.sh

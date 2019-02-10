@@ -1,0 +1,8 @@
+prefix=/usr/local
+
+Name: odomtopic
+Description: Description of odomtopic
+Version: 0.0.0
+Cflags: 
+Libs: -L/usr/local/lib 
+Requires: roscpp rospy message_runtime

@@ -1,0 +1,8 @@
+prefix=/home/akif/catkin_ws/src/odomtopic/devel
+
+Name: odomtopic
+Description: Description of odomtopic
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/akif/catkin_ws/src/odomtopic/devel/lib 
+Requires: roscpp rospy message_runtime
